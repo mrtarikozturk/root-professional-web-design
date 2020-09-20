@@ -1,7 +1,7 @@
 # Root Professional Web Design
 
 
-- Website - [Website]("https://mrtarikozturk.github.io/root-professional-web-design/")
+- Website - [Root Professional Web Design](https://mrtarikozturk.github.io/root-professional-web-design/)
 
 <!-- ![Project Image](project-image-url) -->
 
